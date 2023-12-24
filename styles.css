@@ -11,30 +11,31 @@
 .latest-news-section{
 	background-color:white;
 	padding:10px;
-	width:100px;
-	height:100px;
+	width:200px;
+	height:200px;
 	border-radius:10px;
 }
 #main{
 	display:flex;
 }
-.latest-news-section{
+.latest-news{
 	background-color:white;
 	padding:10px;
-	width:250px;
+	width:200px;
 	border-radius:10px;
 	margin:10px;
-	height:200px;
+	height:300px;
 	text-align:center;
 }
 .pictorial-news-section{
 	background-color:white;
 	padding:10px;
-	width:200px;
-	height:400px;
+	width:400px;
+	height:500px;
 	border-radius:10px;
+	text-align:center;
 }
-.pictorial-news-section,img{
+.pictorial-news-section, img{
+width:100px;
 	height:100px;
-	width:100px;
 }
