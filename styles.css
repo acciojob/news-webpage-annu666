@@ -11,14 +11,14 @@
 .latest-news-section{
 	background-color:white;
 	padding:10px;
-	width:150px;
+	width:100px;
 	height:100px;
 	border-radius:10px;
 }
 #main{
 	display:flex;
 }
-.main2{
+.latest-news-section{
 	background-color:white;
 	padding:10px;
 	width:250px;
@@ -26,14 +26,14 @@
 	margin:10px;
 	height:200px;
 }
-#main3{
+.pictorial-news-section{
 	background-color:white;
 	padding:10px;
 	width:200px;
 	height:400px;
 	border-radius:10px;
 }
-#main3>img{
+.pictorial-news-section,img{
 	height:100px;
 	width:100px;
 }
